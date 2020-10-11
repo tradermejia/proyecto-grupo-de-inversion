@@ -1,0 +1,33 @@
+[1005/152445.361:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/152528.077:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/152709.325:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/153528.062:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/153528.062:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/154028.077:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/155528.079:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/161028.080:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/162528.081:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/164028.082:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/165528.086:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/170208.601:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/171028.087:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/172528.088:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/174028.089:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/175135.691:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/175204.282:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/175234.305:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/180204.283:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/180204.284:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/180704.282:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/203743.977:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/204753.962:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1005/210825.272:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1007/142949.309:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\casa\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\0caa948c-4093-4e54-a092-121975400912: El sistema no puede encontrar la ruta especificada. (0x3)
+[1007/142949.369:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1007/170110.273:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1007/172605.510:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1007/190250.506:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1007/222849.819:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1009/173321.584:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1009/175921.957:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1009/191336.306:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
